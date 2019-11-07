@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+}
+
+.imgji{
+  vertical-align: middle;
+  padding: 10px;
+}
+.btn{
+  background-color: rgb(168, 61, 19);
+  height: 40px;
+  width: 100px;
+}
+.btn:hover{
+  background-color: aliceblue;
+}
+.h-zigzag {
+  margin-bottom: 100px !important;
+  height:300px;
+  width:100%;
+  background:
+      linear-gradient(-135deg, #13A89E 5px, transparent 0) 0 5px,
+      linear-gradient(135deg, #13A89E 5px, rgb(117, 105, 105) 0) 0 5px;
+  background-color: #13A89E;
+  background-position: left bottom;
+  background-repeat: repeat-x;
+  background-size: 70px 70px;
+
+}
+.h1{
+  text-align: center;
+  color: white;
+}
+.detail{
+  background-color: rgb(238, 110, 115)
+}
+.detail1{
+  margin-left: 1100px;
+       width: 250px;
+background-color:  rgb(41, 41, 102);
+color: aliceblue;
+border-radius:  10px;
+}
+.effect1{
+  -webkit-box-shadow: 0 10px 26px -6px rgb(19, 8, 8);
+     -moz-box-shadow: 0 10px 26px -6px rgb(12, 5, 5);
+          box-shadow: 0 10px 26px -6px rgb(14, 9, 9);
+          width: 700px;
+          height: 400px;
+          margin-left: 400px;
+          margin-top: 100px;
+}
+.span{
+  font-size: 20px;
+  font-weight: bold;
+ line-height:  40px;
+
+}
+.nav-wrapper{
+  background-color: rgb(238, 110, 115) !important
+}
+.a1{
+  font-size: 40px;
+  /* margin-left:  -1400px !important; */
+  /* margin: 130px;  */
+}
+.lable1{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(19, 8, 8);
+font-family: oblique;
+/* margin: 3px; */
+
+}
+.quizcenterdiv{
+  -webkit-box-shadow: 0 10px 26px -6px rgb(24, 14, 14);
+     -moz-box-shadow: 0 10px 26px -6px rgb(12, 8, 8);
+          box-shadow: 0 10px 26px -6px rgb(14, 13, 13);
+          width: 900px;
+          height: 400px;
+          /* align-content: center; */
+          margin-left: 250px;
+          margin-top: 00px;
+}
+.waves-effect1{
+  background-color: blue;
+  font-size: 20px;
+}
+.quizheading{
+  font-size: 30px;
+}
+.gap{
+  margin-left: -500px !important;
+}
+.radio{
+text-align: center;
+padding-left:  20px;
+}
+
+.radiodiv{
+  height: 200px;
+}
+.questiondiv{
+height: 40px;
+font-style: oblique;
+
+}
+.waves-effect{
+  width: 200px;
+  margin: 10px;
+}
